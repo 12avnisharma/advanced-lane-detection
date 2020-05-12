@@ -35,11 +35,6 @@ from IPython.display import HTML
 - This is so that each notebook sees to see relevant files, the most relevant files being the python classes. 
 
 # Relevant Links
-
-- My Medium article
-- - https://medium.com/@mithi/advanced-lane-finding-using-computer-vision-techniques-7f3230b6c6f2
-- My submitted detailed technical writeup 
-- - https://github.com/mithi/advanced-lane-detection/blob/master/WRITEUP.pdf
 - Udacity's project page
 - - https://github.com/udacity/CarND-Advanced-Lane-Lines
 
@@ -49,12 +44,3 @@ from IPython.display import HTML
 - project_video_output.mp4
 - project_video_verbose_output.mp4
 
-### Pipeline
-- pipeline.ipynb
-- pipeline_verbose.ipynb
-
-### Classes
-- ChessBoard - chessboard.py
-- BirdsEye - birdseye.py
-- LaneFilter - lanefilter.py
-- Curves - curves.py
